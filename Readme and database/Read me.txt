@@ -1,0 +1,3 @@
+Hello, Good day/evening. I used xampp for my backend. i worked on the contact us page in such a way that i can 
+recieve the mail anyone sends there and it also appears on the database. I exported the the database into the zip file. 
+The database is also in the same folder as this readme. Happy new year
